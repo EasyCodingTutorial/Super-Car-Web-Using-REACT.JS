@@ -1,0 +1,9 @@
+.second {
+  position: relative;
+  margin-bottom: 150px;
+}
+.second img {
+  height: 60vh;
+  width: 100%;
+  object-fit: cover;
+}

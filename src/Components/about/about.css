@@ -1,0 +1,18 @@
+.about {
+  margin: 150px auto;
+}
+.about img {
+  height: 350px;
+  width: 600px;
+  object-fit: cover;
+}
+.about .col-sm-6 h6 {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--main);
+}
+.about .col-sm-6 h5 {
+  font-size: 40px;
+  font-weight: 600;
+  margin: 20px auto;
+}

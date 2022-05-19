@@ -1,0 +1,29 @@
+.details {
+  margin-bottom: 150px;
+}
+.details .box {
+  border: 2px solid #000;
+  border-top: none !important;
+  overflow: hidden;
+}
+.details img {
+  object-fit: cover;
+}
+.details .box:hover img {
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.details .box_content {
+  padding: 10px;
+}
+.details .box_content h6 {
+  font-size: 20px;
+  font-weight: 600;
+}
+.details .box_content .btn {
+  width: 100%;
+}
+.details .mid {
+  margin-top: 80px;
+}
